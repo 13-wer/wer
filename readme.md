@@ -106,4 +106,4 @@
 |-----------------------------------|---------|----------------------------------------------------------------------------------------------------------------|
 | rubert-base-cased                | 0.77    | [DeepPavlov.ipynb](notebooks/DeepPavlov.ipynb)                                                                |
 | rubert-base-cased-conversational | 0.82    | [rubert-base-cased-conversational.ipynb](notebooks/rubert-base-cased-conversational.ipynb)                    |
-| rubert-tiny2                      | 0.69    | [tiny_bert.ipynb](notebooks/tiny_bert.ipynb)                                                                  |
+| rubert-tiny2                      | 0.73    | [tiny_bert.ipynb](notebooks/tiny_bert.ipynb)                                                                  |
