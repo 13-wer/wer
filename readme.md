@@ -128,8 +128,8 @@ SNR не показал статистической значимости в л�
 
 | Модель                           | AUC-ROC | Ноутбук                                                                                                       |
 |-----------------------------------|---------|----------------------------------------------------------------------------------------------------------------|
-| rubert-base-cased                | 0.77    | [DeepPavlov.ipynb](notebooks/DeepPavlov.ipynb)                                                                |
-| rubert-base-cased-conversational | 0.82    | [rubert-base-cased-conversational.ipynb](notebooks/rubert-base-cased-conversational.ipynb)                    |
+| [rubert-base-cased](https://disk.yandex.ru/d/DVNJJJr1RMTM8A)                | 0.77    | [DeepPavlov.ipynb](notebooks/DeepPavlov.ipynb)                                                                |
+| [rubert-base-cased-conversational](https://drive.google.com/uc?id=1jF93RUNs9e1-Dbp3KbW32-OMnpxtAxZG) | 0.82    | [rubert-base-cased-conversational.ipynb](notebooks/rubert-base-cased-conversational.ipynb)                    |
 | rubert-tiny2                      | 0.73    | [tiny_bert.ipynb](notebooks/tiny_bert.ipynb)                                                                  |
 | создание и анализ признаков       |  -   | [wer_signs.ipynb](notebooks/wer_signs.ipynb)                                                                  |
 
